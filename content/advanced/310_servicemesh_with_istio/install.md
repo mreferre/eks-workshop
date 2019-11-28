@@ -23,7 +23,7 @@ You can check the installation by running:
 ```
 kubectl get crds --namespace istio-system | grep 'istio.io'
 ```
-This should return around 50 CRDs. 
+This should return around 20 CRDs. 
 
 
 ### Install Istio
